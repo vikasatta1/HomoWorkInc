@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HomoWorkInc/static/css/main.e6c13ad2.css",
-    "main.js": "/HomoWorkInc/static/js/main.7e83f691.js",
+    "main.css": "/HomoWorkInc/static/css/main.da55929c.css",
+    "main.js": "/HomoWorkInc/static/js/main.154892a6.js",
     "index.html": "/HomoWorkInc/index.html",
-    "main.e6c13ad2.css.map": "/HomoWorkInc/static/css/main.e6c13ad2.css.map",
-    "main.7e83f691.js.map": "/HomoWorkInc/static/js/main.7e83f691.js.map"
+    "main.da55929c.css.map": "/HomoWorkInc/static/css/main.da55929c.css.map",
+    "main.154892a6.js.map": "/HomoWorkInc/static/js/main.154892a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7e83f691.js"
+    "static/css/main.da55929c.css",
+    "static/js/main.154892a6.js"
   ]
 }

@@ -6,12 +6,12 @@ import {loadingAC} from "./bll/loadingReducer";
 
 function HW10() {
     const dispatch = useDispatch();
-    const loading = useSelector<AppStoreType>(state=> state.loading.loading)
+    const loading = useSelector<AppStoreType>(state => state.loading.loading)
     const setLoading = () => {
         dispatch(loadingAC(true))
-        setTimeout(()=>{
+        setTimeout(() => {
             dispatch(loadingAC(false))
-        },3000)
+        }, 3000)
         console.log('loading...')
     };
 
@@ -19,7 +19,6 @@ function HW10() {
         <div>
             <hr/>
             homeworks 10
-
             {/*should work (должно работать)*/}
             {loading
                 ? (
